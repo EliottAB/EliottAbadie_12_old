@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/EliottAbadie_12-old/static/css/main.f3bee63d.css",
+    "main.js": "/EliottAbadie_12-old/static/js/main.87820aec.js",
+    "static/js/787.a8762e9d.chunk.js": "/EliottAbadie_12-old/static/js/787.a8762e9d.chunk.js",
+    "static/media/logo.svg": "/EliottAbadie_12-old/static/media/logo.837414860efdf652f26ae7be654e06c5.svg",
+    "static/media/sport2.svg": "/EliottAbadie_12-old/static/media/sport2.bc12b705d445672f550a8441d581c700.svg",
+    "static/media/sport3.svg": "/EliottAbadie_12-old/static/media/sport3.fe885ecda828d3e2f637bb3b675db76c.svg",
+    "static/media/glucides.svg": "/EliottAbadie_12-old/static/media/glucides.95581ba1b204199334e122af4784ab16.svg",
+    "static/media/proteines.svg": "/EliottAbadie_12-old/static/media/proteines.ffbc3b88a759c706993bb26fbd66113b.svg",
+    "index.html": "/EliottAbadie_12-old/index.html",
+    "static/media/sport1.svg": "/EliottAbadie_12-old/static/media/sport1.76760efccddf14928ee9263744c1b6e6.svg",
+    "static/media/lipides.svg": "/EliottAbadie_12-old/static/media/lipides.18f60e0efe37e86bcac036d673f0bab0.svg",
+    "static/media/calories.svg": "/EliottAbadie_12-old/static/media/calories.25fef86ed5860200bdf90f9cd185e1e3.svg",
+    "static/media/sport4.svg": "/EliottAbadie_12-old/static/media/sport4.9d22814b98d0ca386d9ddacded4eae80.svg",
+    "main.f3bee63d.css.map": "/EliottAbadie_12-old/static/css/main.f3bee63d.css.map",
+    "main.87820aec.js.map": "/EliottAbadie_12-old/static/js/main.87820aec.js.map",
+    "787.a8762e9d.chunk.js.map": "/EliottAbadie_12-old/static/js/787.a8762e9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3bee63d.css",
+    "static/js/main.87820aec.js"
+  ]
+}
