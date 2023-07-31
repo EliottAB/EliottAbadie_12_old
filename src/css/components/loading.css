@@ -1,0 +1,27 @@
+.loadcontainer{
+  position: absolute;
+  top: 5.687em;
+  left: 7.31em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(100vw - 7.31em);
+  min-width: 14.31em;
+  height: calc(100vh - 5.687em);
+  min-height: 11.374em;
+}
+
+.loading {
+  transform: rotate(0deg);
+  width: 8em;
+  height: 8em;
+  border: 1em solid #f3f3f3;
+  border-top: 1em solid #E60000;
+  border-radius: 100vw;
+  animation: loading .7s linear infinite;
+}
+  
+@keyframes loading {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

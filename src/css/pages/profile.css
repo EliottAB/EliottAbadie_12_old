@@ -1,0 +1,25 @@
+.mainprofile{
+    padding: 4.25em 6em 4.25em 14em;
+}
+
+.hello{
+    font-size: 3em;
+}
+
+.hello span{
+    color: #FF0000;
+}
+
+.congrats{
+    margin-top: 1.6em;
+    font-size: 1.125em;
+    font-weight: 400;
+}
+
+.stats{
+    display: grid;
+    grid-template-columns: repeat(4, 17.39em);
+    max-width: 100% !important;
+    margin-top: 4.8125em;
+    grid-gap: 1em;
+}

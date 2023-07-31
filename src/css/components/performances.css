@@ -1,0 +1,12 @@
+.performances{
+    grid-row: 2;
+    width: 16.125em;
+    height: 16.4375em;
+    background-color: #282D30;
+    border-radius: 0.3125em;
+}
+
+.performances tspan{
+    fill: white;
+    font-size: 0.75em;
+}

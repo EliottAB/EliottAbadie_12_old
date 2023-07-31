@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    height: 5.687em;
+    padding: 0 6vw 0 1.75vw;
+    background-color: black;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+header img{
+    width: 11.125em;
+    margin-right: 10.3vw;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 69.027vw;
+}
+
+header a{
+    font-size: 1.5em;
+    color: white;
+}

@@ -1,0 +1,90 @@
+.calories{
+    grid-row-end: span 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 38.3125em;
+}
+
+.calories li{
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 12.76em;
+    height: 7.75em;
+    padding-left: 3.3656em;
+    font-weight: 700;
+    color: #282D30;
+    background-color: #FBFBFB;
+    border-radius: 0.31125em;
+}
+
+.calories li p{
+    margin-left: 2.8968em;
+    font-size: 1.25em;
+    line-height: 1em;
+    z-index: 1;
+}
+
+.calories li span{
+    font-size: 0.7em;
+    font-weight: 500;
+    color: #74798C;
+}
+
+.calories li::before{
+    position: absolute;
+    left: 2em;
+    content: "";
+    width: 3.75em;
+    height: 3.75em;
+    border-radius: 0.375em;
+}
+
+.calories li:nth-child(1)::before{
+    background-color: #FF0000;
+    opacity: 0.07;
+}
+
+.calories li:nth-child(2)::before{
+    background-color: rgba(74, 184, 255, 0.1);
+}
+
+.calories li:nth-child(3)::before{
+    background-color: #F9CE23;
+    opacity: 0.1;
+}
+
+.calories li:nth-child(4)::before{
+    background-color: rgba(253, 81, 129, 0.1);
+}
+
+.calories li img{
+    z-index: 1;
+}
+
+.calories li:nth-child(1) img{
+    width: 0.9875em;
+}
+
+.calories li:nth-child(2) img{
+    width: 1.1775em;
+}
+
+.calories li:nth-child(3) img{
+    width: 1.05em;
+}
+
+.calories li:nth-child(4) img{
+    width: 1.25em;
+}
+
+@media screen and (max-width: 1385px){
+    .calories{
+        grid-row: 3;
+        grid-column-end: span 2;
+        flex-direction: row;
+        height: 20em;
+    }
+}
